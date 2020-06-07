@@ -32,6 +32,6 @@ if [ "${test1}" -eq "1" ];then
 		echo -n -e "\n"
 	done
 else
-	echo -e n "fuckyou"
+	echo -e n "error input"
 fi
 exit 0
