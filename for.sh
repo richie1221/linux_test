@@ -23,3 +23,4 @@ else
 	echo -e n "fuckyou"
 fi
 exit 0
+#fd
